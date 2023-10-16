@@ -16,3 +16,15 @@ code {
   color: teal;
   font-weight: 400;
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  align-items: center;
+}

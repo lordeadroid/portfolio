@@ -2,9 +2,9 @@ import Navbar from './navbar';
 
 const App = () => {
   return (
-    <div>
+    <div className='header'>
+      <div className="name">Rishabh Rawat</div>
       <Navbar />
-      <h1 className="name">Rishabh Rawat</h1>
     </div>
   );
 };
